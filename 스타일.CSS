@@ -1,0 +1,62 @@
+.호랑이 {
+    color: white;
+    font-size: 50px;
+}
+
+.를 {
+    color:darkkhaki;
+    font-size: 10px;
+}
+
+.주제 {
+    color:darkkhaki;
+    font-size: 20px;
+    margin: -15px;
+}
+
+.로 {
+    color:darkkhaki;
+    font-size: 10px;
+}
+
+.한 {
+    color:darkkhaki;
+    font-size: 10px;
+}
+
+.민화 {
+    color:lightgray;
+    font-size: 35px;
+}
+
+list {
+    background-color: lightgray;
+    padding:30px;
+    position:fixed;
+}
+
+header {
+    background-color:royalblue;
+    text-align: center;
+    position:fixed;
+    top:0%;
+}
+
+.title {
+    color:yellow;
+    background-color:darkred;
+    text-align: left;
+    padding: 10px;
+}
+
+.content {
+    color:black;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: gray;
+}
+
