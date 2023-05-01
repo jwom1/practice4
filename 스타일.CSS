@@ -11,6 +11,7 @@
 .주제 {
     color:darkkhaki;
     font-size: 20px;
+    margin: -15px;
 }
 
 .로 {
@@ -34,8 +35,8 @@ list {
     position:fixed;
 }
 
-.main {
-    background-color: navy;
+header {
+    background-color:royalblue;
     text-align: center;
     position:fixed;
     top:0%;
